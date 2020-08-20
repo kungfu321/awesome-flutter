@@ -1,0 +1,32 @@
+# Top
+
+- [Flutter Team Samples](https://github.com/flutter/samples) [7652⭐] - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people).
+- [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) [21521⭐] - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend).
+- [Meme Chat](https://github.com/efortuna/memechat) [452⭐] - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
+- [Flitter](https://github.com/dart-flitter/flitter) [176⭐] - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
+- [Lime](https://github.com/fablue/lime-flutter) [325⭐] - Lime social network by Sebastian Sellmair.
+- [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial) [636⭐] - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com).
+- [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) [417⭐] - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
+- [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) [474⭐] - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
+- [Music Player](https://github.com/iampawan/Flutter-Music-Player) [1043⭐] - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
+- [WhatTodo](https://github.com/burhanrashid52/WhatTodo) [725⭐] - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
+- [FlutterGram](https://github.com/mdanics/fluttergram) [1311⭐] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
+- [BookSearch](https://github.com/Norbert515/BookSearch) [401⭐] - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
+- [Cinematic](https://github.com/aaronoe/FlutterCinematic) [720⭐] - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
+- [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) [360⭐] - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
+- [Trace](https://github.com/trentpiercy/trace) [509⭐] - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
+- [Taskist](https://github.com/huextrat/Taskist) [487⭐] - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
+- [Tourism](https://github.com/bluemix/tourism-demo) [204⭐] - Tourism app based on redux w/ animations & i18n by [blueMix](https://github.com/bluemix/tourism-demo).
+- [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) [423⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
+- [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT).
+- [Deer](https://github.com/aleksanderwozniak/deer) [218⭐] - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
+- [TailorMade](https://github.com/jogboms/tailor_made) [196⭐] - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [Instory](https://github.com/InvertedX/instory) [161⭐] - Instgram story downloader with a beautiful UI [Sarath](https://twitter.com/_sarath_kumar).
+- [Spacex-Go](https://github.com/jesusrp98/spacex-go) [447⭐] - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
+- [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) [200⭐] - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji).
+- [Reply](https://github.com/flschweiger/reply) [454⭐] - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger).
+- [Enigma](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki).
+- [Chillify](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry).
+- [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz).
+- [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) [1359⭐] - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling).
+- [GitJournal](https://github.com/GitJournal/GitJournal) [307⭐] - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda).
