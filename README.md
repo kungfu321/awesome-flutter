@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/10558363/90632303-64853780-e24e-11ea-8ba3-a425efc0f6b6.png" alt="Awesome Flutter" width="640">
+<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" alt="Awesome Flutter" width="640">
 
 <br>
 <br>

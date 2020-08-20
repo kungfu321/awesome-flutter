@@ -5,7 +5,7 @@ module.exports = {
   description: description,
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
-    ['link', { rel: 'icon', href: `.github/logo.png` }],
+    ['link', { rel: 'icon', href: `https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png` }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
